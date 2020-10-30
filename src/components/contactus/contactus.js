@@ -104,7 +104,6 @@ export default class ContactUs extends Component {
                 </p>
               </div>
               <div className="widget widget_tweets">
-                <h4 className="widget-title"></h4>
                 <ul id="twitter"></ul>
               </div>
             </aside>

@@ -18,7 +18,7 @@ export default class Footer extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-google-plus" />
                   </a>
                 </li>
@@ -28,13 +28,13 @@ export default class Footer extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-instagram" />
                   </a>
                 </li>
 
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-skype" />
                   </a>
                 </li>
@@ -42,7 +42,9 @@ export default class Footer extends Component {
               <ul className="copyright">
                 <li></li>
                 <li>
-                  <a title="Styleshout" href="http://www.styleshout.com/"></a>
+                  <a title="Styleshout" href="http://www.styleshout.com/">
+                    .
+                  </a>
                 </li>
               </ul>
             </div>

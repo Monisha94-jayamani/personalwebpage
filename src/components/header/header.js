@@ -8,7 +8,7 @@ export default class Header extends Component {
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
               Show navigation
             </a>
-            <a className="mobile-btn" href="#" title="Hide navigation">
+            <a className="mobile-btn" href="/#" title="Hide navigation">
               Hide navigation
             </a>
             <ul id="nav" className="nav">
@@ -72,7 +72,7 @@ export default class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-google-plus" />
                   </a>
                 </li>
@@ -82,13 +82,13 @@ export default class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-instagram" />
                   </a>
                 </li>
 
                 <li>
-                  <a href="#">
+                  <a href="#/">
                     <i className="fa fa-skype" />
                   </a>
                 </li>
@@ -102,7 +102,6 @@ export default class Header extends Component {
           </p>
         </header>{" "}
         {/* Header End */}
-        );
       </React.Fragment>
     );
   }

@@ -67,7 +67,9 @@ export default class Header extends Component {
                 </p>
               </div>
               <div className="link-box">
-                <a className="popup-modal-dismiss">Close</a>
+                <a className="popup-modal-dismiss" href="#/">
+                  Close
+                </a>
               </div>
             </div>
             {/* modal-01 End */}
@@ -86,7 +88,9 @@ export default class Header extends Component {
               </div>
               <div className="link-box">
                 <a href="https://url-shortener-myapp.herokuapp.com/">Details</a>
-                <a className="popup-modal-dismiss">Close</a>
+                <a className="popup-modal-dismiss" href="#/">
+                  Close
+                </a>
               </div>
             </div>
             {/* modal-02 End */}

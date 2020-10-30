@@ -35,7 +35,7 @@ export default class Resume extends Component {
               {/* item end */}
               <div className="row item">
                 <div className="twelve columns">
-                  <h3>School of Cool Designers</h3>
+                  <h3>School</h3>
                   <p className="info">
                     Sslc and Hlsc<span>•</span>{" "}
                     <em className="date">March 2015</em>
@@ -68,11 +68,11 @@ export default class Resume extends Component {
                   <h3>Integra Software Services</h3>
                   <p className="info">
                     Programmer Trainee<span>•</span>{" "}
-                    <em className="date">February 2020 - Present</em>
+                    <em className="date">February 2020 - August 2020</em>
                   </p>
                   <p>
-                    As i selected in good IT companies,i got to took training as
-                    domain of MERN Developer in IITM Research Park,Chennai.I
+                    As i selected in good IT company,i got to took training as
+                    domain of MERN Developer.I
                     learnt well and felt i started coding and i increased the
                     logical thinking and learnt MERN full stack developed done
                     small small tasks and solved many codekata problems.
@@ -119,9 +119,14 @@ export default class Resume extends Component {
                     <span className="bar-expand photoshop" />
                     <em>Mongo DB</em>
                   </li>
+                  
                   <li>
                     <span className="bar-expand illustrator" />
                     <em>React Js</em>
+                  </li>
+                  <li>
+                    <span className="bar-expand wordpress" />
+                    <em>PHP</em>
                   </li>
                   <li>
                     <span className="bar-expand wordpress" />
