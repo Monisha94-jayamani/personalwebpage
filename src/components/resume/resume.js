@@ -24,11 +24,8 @@ export default class Resume extends Component {
                   </p>
                   <p>
                     I felt excited to share my University life experience.It was
-                    nice day when i started my college life,because am totally
-                    from biology background so,I donno nothing about computer,so
-                    far i didnt even have computer at home. So,i learnt by
-                    interest and i didnt enjoy at much as how students enjoy in
-                    Universitylife.But,i felt happy in studying.
+                    nice day when i started my college life.I choosed my course on my wish because i like computer and future scope scope also based on computer.
+                    I love coding.I am good in computer knowledge and learnt well,and i completed my degree in first class.
                   </p>
                 </div>
               </div>{" "}
