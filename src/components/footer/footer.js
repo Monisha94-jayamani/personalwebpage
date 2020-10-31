@@ -17,11 +17,7 @@ export default class Footer extends Component {
                     <i className="fa fa-github" />
                   </a>
                 </li>
-                <li>
-                  <a href="#/">
-                    <i className="fa fa-google-plus" />
-                  </a>
-                </li>
+               
                 <li>
                   <a href="https://www.linkedin.com/feed/">
                     <i className="fa fa-linkedin" />

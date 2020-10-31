@@ -37,7 +37,13 @@ export default class About extends Component {
                     <span>monijacklein@gmail.com</span>
                   </p>
                 </div>
-                
+                <div class="columns download">
+                  <p>
+                  
+                     <a href="images/monisha-resume.pdf" download="newfilename" class="button"><i class="fa fa-download"></i>Download Resume</a>
+                  </p>
+               </div>
+
               </div>{" "}
               {/* end row */}
             </div>{" "}
