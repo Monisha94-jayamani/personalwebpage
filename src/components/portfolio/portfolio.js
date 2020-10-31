@@ -47,6 +47,22 @@ export default class Header extends Component {
                     </a>
                   </div>
                 </div>{" "}
+                <div className="columns portfolio-item">
+                  <div className="item-wrap">
+                    <a href="#modal-03">
+                      <img alt="" src="images/portfolio/game.jpg" />
+                      <div className="overlay">
+                        <div className="portfolio-item-meta">
+                          <h5>Number Guess</h5>
+                          <p>Game</p>
+                        </div>
+                      </div>
+                      <div className="link-icon">
+                        <i className="icon-plus" />
+                      </div>
+                    </a>
+                  </div>
+                </div>{" "}
               </div>{" "}
               {/* portfolio-wrapper end */}
             </div>{" "}
@@ -88,6 +104,25 @@ export default class Header extends Component {
               </div>
               <div className="link-box">
                 <a href="https://url-shortener-myapp.herokuapp.com/">Details</a>
+                <a className="popup-modal-dismiss" href="#/">
+                  Close
+                </a>
+              </div>
+            </div>
+            <div id="modal-03" className="popup-modal mfp-hide">
+              <div className="description-box">
+                <h4>project</h4>
+                <p>
+                  This is a number guessing game in which user have to guess the computer generated game it will be matched and the
+                  scores are also calculated and it hosted in netlify.
+                </p>
+                <span className="categories">
+                  <i className="fa fa-tag" />
+                  Branding, Web Development
+                </span>
+              </div>
+              <div className="link-box">
+                <a href="https://compassionate-wescoff-aace00.netlify.app/">Details</a>
                 <a className="popup-modal-dismiss" href="#/">
                   Close
                 </a>
